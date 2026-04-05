@@ -1,0 +1,6 @@
+{
+  "version": 6,
+  "include": [
+    "buildSrc/cmake/presets.json"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uncrustify.configurationFile": "${workspaceFolder}/devtools/formatter/uncrustify.cfg",
+  "uncrustify.executablePath": "uncrustify",
+  "[cpp]": {
+    "editor.defaultFormatter": "zachflower.uncrustify",
+    "editor.formatOnSave": true
+  },
+  "[c]": {
+    "editor.defaultFormatter": "zachflower.uncrustify",
+    "editor.formatOnSave": true
+  }
+}
